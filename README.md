@@ -3,7 +3,7 @@
 Ссылка на сертификат: https://yadi.sk/i/WNvSE1nYz3vIKw<br>
 
 ## Стек<br>
-**Проекты выполнены в Jupyter Notebook на Python с использованием библиотек pandas, NumPy, SciPy, Requests, BeautifulSoup, SQLAlchemy, PyMystem, scikit-learn, Matplotlib, seaborn, Plotly.**
+**Проекты выполнены в Jupyter Notebook на Python с использованием библиотек pandas, NumPy, SciPy, datetime, math, re, Requests, BeautifulSoup, SQLAlchemy, PyMystem, scikit-learn, Matplotlib, seaborn, Plotly.**
 
 ## Список проектов:<br>
 (от последних к более ранним)<br>
